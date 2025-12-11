@@ -1,6 +1,6 @@
 # DAW - Programación  / Programming 
 
-Este repositorio está dedicado a las actividades que realizo en **Programación 1 (Java)** durante el primer año de mi carrera.  
+Este repositorio está dedicado a las actividades que realizo en **Programación 1 (Java)** durante mi carrera.  
 This repository is dedicated to the activities I complete in **Programming 1 (Java)** during my first year of study.
 
 ## Objetivo / Purpose
